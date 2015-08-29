@@ -2,7 +2,7 @@
 Detection of variance changepoints of a time series by Iterated Cumulative Sum of Squares (ICSS) algorithm (Matlab code)
 
 # Description
-A Matlab implementation of the ICSS algorithm in the paper: Use of Cumulative Sums of Squares for Retrospective Detection of Changes of Variance. It has been used in the Simulation study and empirical test of paper Portfolio management with robustness in both prediction and decision: A mixture model based learning approach.
+Check *Use of Cumulative Sums of Squares for Retrospective Detection of Changes of Variance*.
 
 # Example
 
